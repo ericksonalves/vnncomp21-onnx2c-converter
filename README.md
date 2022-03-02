@@ -86,9 +86,9 @@ For convenience, a sell script file with sample parameters is available at `run.
 |        cifar10_large        |   SUCCESS  |                            -                           |
 |        cifar10_medium       |   SUCCESS  |                            -                           |
 |        cifar10_small        |   SUCCESS  |                            -                           |
-|     mnist-net_256x2.onnx    |   SUCCESS  |                            -                           |
-|     mnist-net_256x4.onnx    |   SUCCESS  |                            -                           |
-|     mnist-net_256x6.onnx    |   SUCCESS  |                            -                           |
+|        mnist-net_256x2      |   SUCCESS  |                            -                           |
+|        mnist-net_256x4      |   SUCCESS  |                            -                           |
+|        mnist-net_256x6      |   SUCCESS  |                            -                           |
 |        cifar_base_kw        |   SUCCESS  |                            -                           |
 |        cifar_deep_kw        |   SUCCESS  |                            -                           |
 |        cifar_wide_kw        |   SUCCESS  |                            -                           |
